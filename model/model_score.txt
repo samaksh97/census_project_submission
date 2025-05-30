@@ -1,0 +1,4 @@
+Label Encoder: [' <=50K' ' >50K']
+precision: 0.693
+recall: 0.663
+fbeta: 0.678

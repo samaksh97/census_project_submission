@@ -1,0 +1,2 @@
+2023-12-27-13-12-1703651274
+/home/zhenzhong/mlops-trainee-udacity-course-4/data/raw_data/census.csv
